@@ -25,6 +25,8 @@ github_username: jackiewoodall
 linkedin_username: jackiewoodall
 twitter_username: WoodallJackie
 
+google_analytics: UA-89151381-1
+
 # Build settings
 markdown: kramdown
 theme: minima
