@@ -16,15 +16,12 @@
 title: Hacking the GitHub
 author: Jackie Woodall
 email: jackiewoodall@outlook.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+#description: A collection of personal GitHub projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://jackie.woodallfamily.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jackiewoodall
 linkedin_username: jackiewoodall
-# twitter_username: WoodallJackie
+twitter_username: WoodallJackie
 
 google_analytics: UA-89151381-1
 
