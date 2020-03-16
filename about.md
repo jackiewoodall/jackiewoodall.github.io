@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Software developer by day; caped crusader at night. Contact information in the footer.
+A mild-mannered software developer by day; caped crusader at night. Contact information in the footer.
 
 This is a collection of personal GitHub projects.
 
