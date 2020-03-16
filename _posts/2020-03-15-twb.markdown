@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The Way Beyond"
+date:   2020-03-15 00:00:00 -0500
+categories: jekyll update
+io_url: /twb
+github_url: https://github.com/jackiewoodall/twb
+github_title: jackiewoodall/twb
+description: > # multiline section
+ "An Overview of Spiritual Practices" by William Mikulas.<p>
+ This is an out-of-print book made freely available online with the author's knowledge. This book is offered for free distribution. Please do not sell this book.<p>
+ This is a book about what you should do, not about what you should believe. What you should do if you wish to maximize your potential; satisfy your basic yearnings; have peak experiences. To accomplish all this, the author provides a practical overview of five spiritual practices to be used as guidelines: meditation, concentration, mindfulness, opening the heart, and reducing attachments.<p>
+ Tech: asciidoc, pandoc, calibre.
+---
